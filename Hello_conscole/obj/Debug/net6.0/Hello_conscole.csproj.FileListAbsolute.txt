@@ -1,0 +1,15 @@
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\bin\Debug\net6.0\Hello_conscole.exe
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\bin\Debug\net6.0\Hello_conscole.deps.json
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\bin\Debug\net6.0\Hello_conscole.runtimeconfig.json
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\bin\Debug\net6.0\Hello_conscole.dll
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\bin\Debug\net6.0\Hello_conscole.pdb
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.csproj.AssemblyReference.cache
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.AssemblyInfoInputs.cache
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.AssemblyInfo.cs
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.csproj.CoreCompileInputs.cache
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.dll
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\refint\Hello_conscole.dll
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.pdb
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\Hello_conscole.genruntimeconfig.cache
+C:\Users\Влад\OneDrive\Рабочий стол\обучение\C#\Hello_conscole\obj\Debug\net6.0\ref\Hello_conscole.dll
